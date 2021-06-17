@@ -41,4 +41,25 @@
 > 집을 구하기 위해 고생하는 학생들을 위해 한림대학교에서만 한정되는 어플이 아니라, 더 나아가 다른 학교들이나 회사까지도 적용할 수 있는 효과를 기대한다.
 
 
+-------------------------------------------------------
+## 상세 설명
+> 1. 프로젝트 일정 관리
+![1. 프로젝트 일정 관리](https://user-images.githubusercontent.com/71215978/122480435-d1e92c80-d007-11eb-9c1f-c2d39a084c59.JPG)<br>
+
+> 2. 요구사항 정의서
+![2. 요구사항 정의서](https://user-images.githubusercontent.com/71215978/122480473-e0cfdf00-d007-11eb-98ee-df87b965d6a4.JPG)<br>
+
+
+
+> 3. 화면 설계서
+![3. 화면 설계서](https://user-images.githubusercontent.com/71215978/122480503-edecce00-d007-11eb-9e82-46eff1fd0acd.JPG)<br>
+
+> 4. 클래스 다이어그램 
+![4. 클래스 다이어그램](https://user-images.githubusercontent.com/71215978/122480549-00ff9e00-d008-11eb-8b84-0dcc6c76dcec.JPG)<br>
+
+> 5. DB 설계서
+![5. DB 설계서](https://user-images.githubusercontent.com/71215978/122480558-06f57f00-d008-11eb-8949-3e3ee52eeaed.JPG)<br><br><br>
+
+
+
 
